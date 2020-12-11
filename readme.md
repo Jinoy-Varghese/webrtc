@@ -16,3 +16,8 @@ To ensure peer-to-peer connection, run following command in another terminal :
 
 To view output :
 	search localhost:3000 in browser
+
+if you have any doubts, then just ask me using my website 
+
+https://cspsyco.blogspot.com
+

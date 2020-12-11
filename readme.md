@@ -1,7 +1,11 @@
 npm init -y
+
 npm i express ejs socket.io
+
 npm i uuid
+
 npm i --save-dev nodemon
+
 npm i -g peer
 
 To start server :
